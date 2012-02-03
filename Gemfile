@@ -34,3 +34,5 @@ end
 
 gem 'rspec-rails'
 gem 'watchr'
+gem 'spork'
+gem 'growl-rspec'
